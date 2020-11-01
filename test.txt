@@ -1,0 +1,164 @@
+Washer issue:
+https://eu.community.samsung.com/t5/home-appliances/washer-stuck-in-rinse-spin-cycle-ww80j555fx-eu/td-p/1661983/page/2
+
+Samsung Washer Spins and Refills Over and Over!! DIY fix. WA45H7000AW
+
+https://www.youtube.com/watch?v=61GSgrTfq1Y
+
+
+
+REsume update:
+
+https://www.velvetjobs.com/resume/ecommerce-business-analyst-resume-sample
+
+https://www.hireitpeople.com/resume-database/71-sap-resumes/106661-hybris-sap-functional-analyst-resume-seattle-wa
+
+https://www.hireitpeople.com/resume-database/66-business-analyst-resumes/113197-sr-business-analyst-resume-san-jose-ca-2
+
+
+
+Perfume:
+https://www.giftexpress.com/women-s-fragrances/endless-euphoria-by-calvin-klein-1211.php?sid=472
+
+
+https://www.indeed.com/jobs?q=Data%20Ana%3Byst&l=Remote&vjk=a8eb7f31e1cf2fa3
+
+
+Best ETF's to buy: https://money.usnews.com/investing/funds/slideshows/best-etfs-to-buy
+
+Shist Aani Niyojan- Abhay bang
+
+David: https://www.sap.com/cxworks/
+
+
+----------------------------------------------------------------------------------
+
+
+https://www.linkedin.com/pulse/sap-commerce-5-good-reasons-move-spartacus-yannick-robin
+
+jasonbondtraining.com/free
+
+
+------------------------------------------------------------------------
+Auto / Car Repair: Irvine Auto Care
+------------------------------------------------------------------------
+
+
+https://www.msn.com/en-us/money/personalfinance/how-to-save-dollar1-million-according-to-the-experts/ss-AABvqed?li=BBnb7Kz#image=3
+
+http://refer.amex.us/SHRIPRcAei?xl=cpl
+
+
+Refund confirmation # 006 054 011 1649
+
+----------------------------------------------------------------------------------------------------
+20 Little Things Highly Successful People do (and the Rest of us Probably Don't):
+
+https://www.msn.com/en-us/lifestyle/career/20-little-things-highly-successful-people-do-and-the-rest-of-us-probably-dont/ar-BBUAbDL?li=BBnb7Kz
+----------------------------------------------------------------------------------------
+
+
+https://training.sap.com/certification/c_hycba_63-sap-certified-associate---sap-hybris-commerce-business-analyst-63-g/
+
+resume
+https://www.linkedin.com/jobs/view/senior-sap-hybris-marketing-c4c-analyst-at-karma-automotive-llc-824500956
+
+https://www.slideshare.net/AzriAbdelghani/sap-hybris-hot-folder
+
+fafsa.ed.gov
+
+ftp://ftp.salsify.com/gojopcm_export/
+
+commercial real estate for beginners peter harris
+
+https://www.msn.com/en-us/health/fitness/the-20-most-useless-things-in-your-gym/ss-BBLGkll?li=BBnb7Kz&fullscreen=true#image=8
+
++91 96188 08009
+
+
+
+Putty: hybris@gjchyado:~/hybris/data/gojoproductdata
+
+/hybris/cd 
+
+/interfaces/Hybris/QAS/EPI
+
+hybris/bin/custom/gojo/gojoinitialdata/tempforepiimport
+
+cp gojo_product_formula1.csv /interfaces/Hybris/QAS/ECC
+cp gojo_product.csv /interfaces/Hybris/QAS/EPI
+
+
+10.6.2.148
+
+\\akr-nas01.gojo.net\SAP_Data_Repository\Hybris
+
+\\akr-nas01\SAP_Data_Repository\Hybris
+
+R28116719368D
+
+
+
+Postman: https://www.getpostman.com/collections/457fe9a61c20ddcb6bd2
+
+Maths:
+http://www.purplemath.com/modules/percntof2.htm
+https://www.geneseocsd.org/Page/1213
+
+https://www.msn.com/en-us/news/good-news/teen-becomes-first-for-dps-to-graduate-high-school-and-college-concurrently/ar-AAxNYUZ?li=BBnb7Kz
+pimqa.gojoapps.com/hac
+
+
+
+https://support.globalsign.com/customer/en/portal/articles/2121490-java-keytool---create-keystore
+
+keytool -import -alias test.gojo.cloud.opentext.com -file C:\Users\us24322\Desktop\SSL_CERTS\otmm.cer -keystore C:\Users\us24322\Desktop\SSL_CERTS\otmmint.keystore -storepass opentext
+keytool -import -alias otmm -file C:\Users\us24322\Desktop\SSL_CERTS\otmm.cer -keystore C:\Users\us24322\Desktop\SSL_CERTS\otmmint.keystore -storepass opentext
+
+wrapper.java.additional.1=-Djavax.net.ssl.trustStore=C:\Users\us24322\Desktop\SSL_CERTS\otmmint.keystore
+
+Gift Card Granny - buying cheap unwanted gift cards
+
+Optum RX: 877-559-2955
+
+
+http://www.elliott.org/company-contacts/samsung/
+
+
+https://www.tutorialspoint.com/sap_hybris/sap_hybris_accelerators_concept.htm
+
+
+http://www.admissions.upenn.edu/costs-financial-aid/how-aid-is-determined
+
+https://scea.secure.force.com/LiveChat/apex/LiveAgentChat?language=#deployment_id=572i00000002cba&org_id=00Di0000000H5ef&button_id=573i00000002ftp&session_id=db06284f-f256-4250-ae4a-da923fb54e74
+https://scea.secure.force.com/PreChatEnglishForm/
+800-345-7669
+
+
+https://wiki.hybris.com/display/education/Study+Guide+for+SAP+Hybris+Commerce+6.3+Certification+Exam+-+Business+Analyst+Associate 
+
+https://performancemanager.successfactors.eu/sf/learning?destUrl=https%3a%2f%2fsaplearninghub%2eplateau%2ecom%2flearning%2fuser%2fdeeplink_redirect%2ejsp%3flinkId%3dLEARNING_PLAN%26fromSF%3dY&company=learninghub
+
+https://performancemanager.successfactors.eu/sf/learning?Treat-As=WEB&bplte_company=learninghub&_s.crb=Jw3OtJvNVo7xLuSHq50j%2bZyD2ms%3d
+
+https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work?referrer=playlist-the_most_popular_talks_of_all#t-711540
+
+
+------------------------------------------------------
+https://www.msn.com/en-us/money/personalfinance/19-things-you-should-make-your-kids-pay-for/ss-AAxi7i3?li=BBnb7Kz#image=20
+-------------------------------------------------------------------------
+
+
+https://www.xvideos.com/video33804529/indian_aunty_remove_her_blue_saree_blouse_expose_big_boobs_nude_bodys
+My T D With a V I T
+
+tare zameen par: bum bum bole
+chota baccha jaan ke humko
+Eh Shivani, tu lagti hai Nani
+hosh na khabar hai, yes kaisa asar hai..dilbar, dilbar
+AA Dekhe zara, kisme kitna hain dum
+
+
+
+
+
